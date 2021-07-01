@@ -1,0 +1,24 @@
+.input{
+    max-width: 900px;
+    width: 80%;
+    margin: 0px 9% 0px 9%;
+    font-size: 75px;
+    text-align: right;
+    border:2px black solid
+}
+.button{
+    width:19%;
+    max-width: 200px;
+    box-sizing: border-box;
+    margin:5px;
+    height: 60px;
+    font-size:40px;
+}
+.ans{
+    max-width: 900px;
+    width: 80%;
+    font-size: 75px;
+    display: block;
+    text-align: right;
+    margin:auto;
+}
